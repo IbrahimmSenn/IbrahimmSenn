@@ -12,7 +12,7 @@ A production-grade e-commerce platform:
 - Prometheus / Grafana / Loki / Tempo observability with SLO burn-rate alerting
 - Five-stage CI/CD: tests → security scans → migration validation → deployment rehearsal → deploy
 
-### 🛠 Tools I work with
+### 🛠 Tools I work with daily
 
 `Go` `React` `TypeScript` `PostgreSQL` `RabbitMQ` `Docker` `Stripe` `Prometheus` `Grafana` `k6` `GitHub Actions`
 
