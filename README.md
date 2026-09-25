@@ -1,3 +1,3 @@
-## Hi, I'm İbrahim 👋
+## Hi, I'm Ibrahim 👋
 
-Full-stack developer working with **Go, React/TypeScript, and PostgreSQL**. 
+A Full-stack developer working with **Go, React/TypeScript, and PostgreSQL**. 
